@@ -1,4 +1,3 @@
-# hello-world
-Prova
+# WORKS FOR COURSERA ASIGNMENTS
 
-Prove per Git in fase di elaborazione per certificazione IBM in data science
+Files and random stuff to learn the gig
